@@ -1,0 +1,3 @@
+this is a test
+I still need to learn Vim
+But first I'll focus on Git

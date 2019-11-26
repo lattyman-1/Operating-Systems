@@ -2,6 +2,7 @@
 #include <sys/shm.h> 
 #include <stdio.h> 
 #include <string.h>
+//Send a message through shared memory to be read and printed out by a separate reader code
 
 int main() 
 { 
