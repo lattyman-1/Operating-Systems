@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//Learn how to break into a program
 
 void login() {
     int authenticated=0;
@@ -29,3 +30,28 @@ int main(int argc, char const *argv[])
      return 0;
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//hehe can you see me?
